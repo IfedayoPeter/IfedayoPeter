@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VersityHub**
 
-- 💬 Ask me about **Java, spring boot, react,JavaScript**
+- 💬 Ask me about **Java, spring boot, C#, ASP.NET,JavaScript**
 
 - 📫 How to reach me **awoniyiifedayopeter@gmail.com**
 
